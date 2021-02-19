@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi Welcome to my Github 👋
 ---
 ### About me
+    I am a tossing person in life, 
+    learning the Internet of Things, 
+    a technology enthusiast, 
+    and I love to listen to Taylor Swift’s songs
+#### Contact
 - 🦓&emsp;&emsp;QQ：`MjQyMTk4NTIyMg==`
 - 🐴WeChat：`MjQyMTk4NTIyMg==`
 - 🦄　Blog：[www.hello-chen.cn](https://www.hello-chen.cn)
