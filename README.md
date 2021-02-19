@@ -2,7 +2,6 @@
 ---
 
 ### About me
-I am a tossing person in life, \
 learning the Internet of Things, \
 a technology enthusiast, \
 and I love to listen to Taylor Swift’s songs 
