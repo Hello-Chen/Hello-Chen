@@ -1,10 +1,10 @@
 ### Hi Welcome to my Github 👋
 ---
 ### About me
-  I am a tossing person in life, 
-    learning the Internet of Things, 
-    a technology enthusiast, 
-    and I love to listen to Taylor Swift’s songs
+I am a tossing person in life, \
+learning the Internet of Things, \
+a technology enthusiast, \
+and I love to listen to Taylor Swift’s songs <div align=right>![](https://hello-chen-1300561671.cos.ap-chengdu.myqcloud.com/github_vscode/github.jpg)
 #### Contact
 - 🦓&emsp;&emsp;QQ：`MjQyMTk4NTIyMg==`
 - 🐴WeChat：`MjQyMTk4NTIyMg==`
