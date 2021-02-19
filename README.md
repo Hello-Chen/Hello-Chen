@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<!--
+<!--Stats-->
+[![Hello-Chen GitHub stats](https://github-readme-stats.vercel.app/api?username=Hello-Chen&show_icons=true&bg_color=ee3a88,b96dbd,859df0&text_color=fff&title_color=EDF7D2&icon_color=EDF7D2&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hello-Chen&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 **Hello-Chen/Hello-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
